@@ -1,1 +1,1 @@
-# Configuración de Firebase (apiKey, etc)
+### Configuración de Firebase (apiKey, etc)
